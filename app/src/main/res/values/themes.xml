@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Eid" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#3F51B5</item>
+        <item name="android:statusBarColor">#2B3985</item>
+    </style>
+
+    <style name="Theme.Eid" parent="Base.Theme.Eid" />
+</resources>
